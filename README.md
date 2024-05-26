@@ -4,5 +4,7 @@ The Recruitment System is a web application designed to streamline the recruitme
 
  ## Technologies Used
 FastAPI: FastAPI is used as the backend framework to build the RESTful API endpoints.
+
 MongoDB: MongoDB is used as the database to store candidate information, job postings, and resumes.
+
 Python: Python is used for backend development, data processing, and server-side logic.
